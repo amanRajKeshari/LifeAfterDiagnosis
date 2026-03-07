@@ -1,0 +1,21 @@
+{
+    "name": "Life After Diagnosis",
+    "short_name": "Life After Diagnosis",
+    "description": "Connecting blood donors to patients directly without middlemen.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0A0F",
+    "theme_color": "#FF2E63",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
